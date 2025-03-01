@@ -35,6 +35,7 @@ chmod 600 ~/.ssh/authorized_keys
 ```
 
 На хосте: 
+
 0. Перенести файл без расширения .pub и chmod 600 путь до файла ключа
 1. Ctrl+Shift+X - Скачать расширение Remote - SSH
 2. Ctrl+Shift+P - Remote-SSH: Add New SSH Host
